@@ -1,2 +1,0 @@
-# API-Challenge
-Answering the fundamental question, "What's the weather like as we approach the equator?", with some proof. The objective of this Python script is to visualize the weather of 500+ cities across the world at varying distances from the equator. These visualizations will be represented as scatter plots showcasing the relationships between temperature (F) vs. latitude, humidity (%) vs. latitude, cloudiness (%) vs. latitude, and wind speed (mph) vs. latitude.
